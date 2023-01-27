@@ -11,5 +11,8 @@ mvn clean install
 ### Run
 java -jar target/config-server-0.0.1-SNAPSHOT.jar
 
+Note:
+Tested locally with "java 18.0.2 2022-07-19"
+
 ### Test
 http://localhost:8888/order-service/default
